@@ -20,3 +20,8 @@ KPI Indicators: Clear display of total quantity sold and total sales amount.
 Segment & Region Filters: Interactive filters for detailed analysis by segment and region.
 Profit & Sales Distribution: Visualization of profit and sales distribution among different segments and regions.
 Loss Management: Identified some products with losses, which were effectively managed by overall profit margins.
+
+
+## Dashboard
+
+![alt text](Picture2.png)
